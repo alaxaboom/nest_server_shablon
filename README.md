@@ -9,3 +9,4 @@ JWTKEY=ZXCGHOULZXC
 PROJECT_STATUS="development"
 TOKEN_EXPIRATION=48h
 BEARER=Bearer
+не пиздить инфу
